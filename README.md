@@ -20,7 +20,7 @@
 
 ![3](https://github.com/Aid1986/Host-protection/blob/main/3.png)
 
-Начинаем работу с разделом – добавляем файловую систему и монтируем, куда нам надо.
+Начинаем работу с разделом – добавляем файловую систему и монтируем.
 
 ![4](https://github.com/Aid1986/Host-protection/blob/main/4.png)
 
